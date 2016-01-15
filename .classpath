@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="resource/libs/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="resource/libs/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="resource/libs/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="resource/libs/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="resource/libs/org.apache.log4j_1.2.15.v201012070815.jar"/>
+	<classpathentry kind="lib" path="resource/libs/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="resources/libs/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="resources/libs/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="resources/libs/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="resources/libs/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="resources/libs/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="resources/libs/org.apache.log4j_1.2.15.v201012070815.jar"/>
+	<classpathentry kind="lib" path="resources/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="resources/libs/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
